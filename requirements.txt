@@ -1,0 +1,9 @@
+torch
+torchtext
+pytorch-lightning
+tensorflow
+keras
+tqdm
+numpy
+jupyter
+matplotlib
